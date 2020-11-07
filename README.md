@@ -2,15 +2,18 @@
 
 Ucze sir gita, mam na imie **_Kasia_**
 
-* d
+tutaj dodalam wypunktowane litery d:
 * d
 * d
 * d
 
-Na prawde bardzo ciekawe
+**Niesamowite. Prawda?**
+
+Na prawde bardzo ciekawe:
 
 1. LA
 2. LA
 
 
-Format: ![LogoGitHuba](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
+Lubicie Kucyki?
+ ![LogoGitHuba](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
