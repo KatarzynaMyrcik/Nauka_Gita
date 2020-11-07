@@ -13,4 +13,4 @@ Na prawde bardzo ciekawe
 2. LA
 
 
-Format: ![LogoGitHuba](https://octodex.github.com/saritocat/)
+Format: ![LogoGitHuba](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
