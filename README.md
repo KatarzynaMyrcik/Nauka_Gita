@@ -17,3 +17,7 @@ Na prawde bardzo ciekawe:
 
 Lubicie Kucyki?
  ![LogoGitHuba](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
+
+
+Masz ochote na bajeczke?
+https://github.com/varghoss/nauka_gita.git
