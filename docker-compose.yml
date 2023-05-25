@@ -1,0 +1,23 @@
+version: "3"
+services:
+    baza:
+        image: postgres
+        volumes:
+            - dane_bazy:/var/lib/postrgesql/data
+        environment:
+            POSTRGES_USER: ja
+            POSTGRES_DB: mojabaza
+            POSTGRES_PASSWORD: mojehaslo
+        networks:
+            - baza-net
+    panel_sterowania:
+        image: adminer
+        networks:
+            - baza-net
+        ports:
+            - 8080:8080
+networks:
+    baza-net:
+
+volumes:
+    dane_bazy:
